@@ -6,7 +6,7 @@ MEMBER 2 MADISON
  
 MEMBER 3 DAVID
 
-my prefered engineering branch is civil. 
-my role in the project 2 will be the help the team with all coding.
+My prefered Engineering branch is civil. 
+My role in the project 2 will be to help the team with all coding tasks.
  
 MEMBER 4 DUKE
