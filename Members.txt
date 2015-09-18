@@ -1,6 +1,12 @@
 LIST OF MEMBERS FOR TEAM 84
  
 MEMBER 1 MANOHAR
+
+Brief Introduction
+
+Role in Project: Team Leader and Programmer
+
+Preferred Branch of Engineering: Electrical and Computer Systems
  
 MEMBER 2 MADISON
  
